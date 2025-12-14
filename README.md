@@ -28,30 +28,35 @@ Execute the programs and publish them.
 ## CODE
 
 map.html
+<!DOCTYPE html>
 <html>
 <head>
-<title>My City</title>
+    <title>My City</title>
+
+</head>
 <body>
+
 <h1 align="center">
-<font color="red"><b>Tiruchirappalli</b></font>
+    <font color="blue">Tiruchirappalli</font>
+
 </h1>
 <h3 align="center">
-<font color="blue"><b>Adithya NM (25011586)</b></font>
+    <font color="red">ADITHYA NM (2501158)</font>
 </h3>
-<center>
-<img src="map.png" usemap="#MyCity" height="610" width="1450">
-<map name="MyCity">
-<area shape="rect" coords="894,479,828,417" href="Science_Park.html" title="Science Park">
-<area shape="circle" coords="887,357,810,291" href="Trichy_Birds_Park.html" title="Trichy Birds Park">
-<area shape="circle" coords="988,698,1067,763" href="Tiruchirappalli_International_Airport.html" title="Trichirappalli International Airport">
-<area shape="circle" coords="842,132,932,204" href="Sri_Ranganatha_Swamy_Temple.html" title="Sri Ranganatha Swamy Temple">
+<img src= 'Screenshot 2025-12-14 194706.png' usemap="#nearme" align="right" ></img>
+<map name="nearme">
+    <area shape="rect" coords="894,479,828,417" href="Science_Park.html" name="Science Park">    
+    <area shape="rect" coords="887,357,810,291" href="Trichy_Birds_Park.html" name="Trichy Birds Park">
+    <area shape="rect" coords="988,698,1067,763" href ="Tiruchirappalli_International_Airport.html" name="Tiruchirappalli International Airport">
+    <area shape="rect" coords="842,132,932,204" href="Sri_Ranganatha_Swamy_Temple.html" name="Sri Ranganatha Swamy Temple">
 </map>
-</center>
-</head>
 </body>
 </html>
+```
+```
 
 Science_Park.html
+<!DOCTYPE HTML>
 <html>
 <head>
 <title>My Home Town</title>
@@ -70,8 +75,11 @@ The Trichirappalli Science Park is an educational and recreational center design
 </p>
 </body>
 </html>
+```
+```
 
 Trichy_Birds_Park.html
+<!DOCTYPE HTML>
 <head>
 <title>My Home Town</title>
 </head>
@@ -89,8 +97,11 @@ Trichy Birds Park is a well-developed, eco-friendly conservation and recreation 
 </p>
 </body>
 </html>
+```
+```
 
 Trichirappalli_International_Airport.html
+<!DOCTYPE HTML>
 <html>
 <head>
 <title>My Home Town</title>
@@ -109,8 +120,11 @@ Tiruchirappalli International Airport (TRZ) is a major aviation hub for central 
 </p>
 </body>
 </html>
+```
+```
 
 Sri_Ranganatha_Swamy_Temple.html
+<!DOCTYPE HTML>
 <html>
 <head>
 <title>My Home Town</title>
@@ -129,9 +143,10 @@ The Sri Ranganathaswamy Temple at Srirangam is one of the most important and mag
 </p>
 </body>
 </html>
+```
 
-
-## OUTPUT
+  
+  ## OUTPUT
 ![alt text](<Trichirappalli Map-1.png>)
 
 ## Science Park
