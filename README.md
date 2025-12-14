@@ -31,7 +31,6 @@ map.html
 <html>
 <head>
 <title>My City</title>
-</head>
 <body>
 <h1 align="center">
 <font color="red"><b>Tiruchirappalli</b></font>
@@ -48,6 +47,7 @@ map.html
 <area shape="circle" coords="842,132,932,204" href="Sri_Ranganatha_Swamy_Temple.html" title="Sri Ranganatha Swamy Temple">
 </map>
 </center>
+</head>
 </body>
 </html>
 
