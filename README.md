@@ -26,12 +26,12 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
+```
 map.html
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My City</title>
+    My City
 
 </head>
 <body>
@@ -155,7 +155,7 @@ The Sri Ranganathaswamy Temple at Srirangam is one of the most important and mag
 ## Trichy Birds Park
 ![alt text](<Trichy Birds Park.png>)
 
-## Trichirappalli International Airport
+## Tiruchirappalli International Airport
 ![alt text](<Tiruchirappalli International Airport.png>)
 
 ## Sri Ranganatha Swamy Temple
