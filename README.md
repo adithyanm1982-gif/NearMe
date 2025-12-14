@@ -1,6 +1,7 @@
 # Ex04 Places Around Me
 ## Date: 14/12/2025
 ## Name : Adithya NM
+## Register No: 25011586
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -41,7 +42,7 @@ map.html
 
 </h1>
 <h3 align="center">
-    <font color="red">ADITHYA NM (2501158)</font>
+    <font color="red">ADITHYA NM (25011586)</font>
 </h3>
 <img src= 'Screenshot 2025-12-14 194706.png' usemap="#nearme" align="right" ></img>
 <map name="nearme">
@@ -149,7 +150,7 @@ The Sri Ranganathaswamy Temple at Srirangam is one of the most important and mag
   ## OUTPUT
 ![alt text](<Trichirappalli Map-1.png>)
 
-## Science Park
+## Tiruchirappalli Science Park
 ![alt text](<Science Park.png>)
 
 ## Trichy Birds Park
